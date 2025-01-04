@@ -12,7 +12,7 @@ Mouse movement is tracked to update the rotation and translation of a header ele
 
 The createVideoPlane function generates a plane with a video texture, using the calculated positions and rotations. Each plane's user data includes various properties for parallax and oscillation effects. The updateGallery function refreshes the grid by removing existing planes and creating new ones based on the current parameters.
 
-The animate function is responsible for the animation loop, updating the header's transformation and the planes' positions and rotations based on mouse movement and time. The camera is continuously adjusted to look at a target point, and the scene is rendered in each frame. The updateGallery and animate functions are called to initialize and start the animation.
+The animate function is responsible for the animation loop, updating the header's transformation and the planes positions and rotations based on mouse movement and time. The camera is continuously adjusted to look at a target point, and the scene is rendered in each frame. The updateGallery and animate functions are called to initialize and start the animation.
 
 ## How execute the project ▶️
 
