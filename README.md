@@ -16,7 +16,7 @@ The animate function is responsible for the animation loop, updating the header'
 
 ## How execute the project ▶️
 
-Make sure that node.js is install on your machine, if isn't go to Node.js download page and install [NodeJS](https://nodejs.org/en/download).
+Make sure that node.js is installed on your machine, if isn't go to Node.js download page and install [NodeJS](https://nodejs.org/en/download).
 
 After that, navigate to your project directory and run the command in your terminal 
 ```
